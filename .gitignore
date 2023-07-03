@@ -149,14 +149,8 @@ azure-pipelines/
 # Ignore wwwroot folder
 wwwroot/
 
-# Ignore appsettings file(s)
-appsettings*.json
-
 # Azure Function Apps local settings file
 local.settings.json
-
-# Ignore EF Core Migrations folder
-**/Migrations/
 
 # R# Backup Files
 *_Resharper.*
